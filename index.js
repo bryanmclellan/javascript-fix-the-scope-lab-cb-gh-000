@@ -13,8 +13,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  var n = 151;
-  
+  var n = 829;
+
   return n + two
 
   // Feel free to move things around!
